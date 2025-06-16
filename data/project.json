@@ -1,1 +1,100 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[{"login_name":"JMU-AudiAnnotate","avatar_url":"https://avatars.githubusercontent.com/u/92408618?v=4","admin":true}],"project":{"github_org":"JMU-AudiAnnotate","is_private":false,"title":"Major Jackson, Dolores Kendrick, Pinkie Gordon Lane, and Michael S. Harper Interviews Final Cut, 1994 September 29 - 1994 October 1 [PUBLISH-FF0067]","description":"Interviews with poets at the 1994 Furious Flower Conference. Featured in this video is Major Jackson interviewed by Vera L. Beatty, Dolores Kendrick interviewed by Judith Thomas, Pinkie Gordon Lane interviewed by Sandra Govan, and Michael S. Harper interviewed by Aldon Lynn Nielsen. This footage was originally recorded on a MII videocassette.","language":"en","slug":"PUBLISH-FF0067","creator":"JMU-AudiAnnotate","authors":"","media_player":"avannotate","auto_populate_home_page":false,"additional_users":[],"tags":{"tagGroups":[{"category":"Speaker","color":"#ADFFD9"}],"tags":[{"tag":"Major Jackson","category":"Speaker"},{"tag":"Dolores Kendrick","category":"Speaker"},{"tag":"Pinkie Gordon Lane","category":"Speaker"},{"tag":"Michael S. Harper","category":"Speaker"},{"tag":"Vera L. Beatty","category":"Speaker"},{"tag":"Judith Thomas","category":"Speaker"},{"tag":"Sandra Govan","category":"Speaker"},{"tag":"Aldon Lynn Nielsen","category":"Speaker"},{"category":"Speaker","tag":"BMichael S. Harper"},{"category":"Speaker","tag":"CMichael S. Harper"}]},"created_at":"2025-06-16T18:14:36.497Z","updated_at":"2025-06-16T18:16:54.132Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"82b46483-adfd-4c78-a231-627f63c9a6fd":{"content":[],"created_at":"2025-06-16T18:14:36.529Z","created_by":"JMU-AudiAnnotate","title":"Major Jackson, Dolores Kendrick, Pinkie Gordon Lane, and Michael S. Harper Interviews Final Cut, 1994 September 29 - 1994 October 1 [PUBLISH-FF0067]","updated_at":"2025-06-16T18:14:36.529Z","updated_by":"JMU-AudiAnnotate","autogenerate":{"enabled":false,"type":"home"}}},"pageOrder":["82b46483-adfd-4c78-a231-627f63c9a6fd"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [
+    {
+      "login_name": "JMU-AudiAnnotate",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92408618?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "JMU-AudiAnnotate",
+    "is_private": false,
+    "title": "Major Jackson, Dolores Kendrick, Pinkie Gordon Lane, and Michael S. Harper Interviews Final Cut, 1994 September 29 - 1994 October 1 [PUBLISH-FF0067]",
+    "description": "Interviews with poets at the 1994 Furious Flower Conference. Featured in this video is Major Jackson interviewed by Vera L. Beatty, Dolores Kendrick interviewed by Judith Thomas, Pinkie Gordon Lane interviewed by Sandra Govan, and Michael S. Harper interviewed by Aldon Lynn Nielsen. This footage was originally recorded on a MII videocassette.",
+    "language": "en",
+    "slug": "PUBLISH-FF0067",
+    "creator": "JMU-AudiAnnotate",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": false,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Speaker",
+          "color": "#ADFFD9"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Major Jackson",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Dolores Kendrick",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Pinkie Gordon Lane",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Michael S. Harper",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Vera L. Beatty",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Judith Thomas",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Sandra Govan",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Aldon Lynn Nielsen",
+          "category": "Speaker"
+        },
+        {
+          "category": "Speaker",
+          "tag": "BMichael S. Harper"
+        },
+        {
+          "category": "Speaker",
+          "tag": "CMichael S. Harper"
+        }
+      ]
+    },
+    "created_at": "2025-06-16T18:14:36.497Z",
+    "updated_at": "2025-06-16T18:16:55.315Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "82b46483-adfd-4c78-a231-627f63c9a6fd": {
+      "content": [],
+      "created_at": "2025-06-16T18:14:36.529Z",
+      "created_by": "JMU-AudiAnnotate",
+      "title": "Major Jackson, Dolores Kendrick, Pinkie Gordon Lane, and Michael S. Harper Interviews Final Cut, 1994 September 29 - 1994 October 1 [PUBLISH-FF0067]",
+      "updated_at": "2025-06-16T18:14:36.529Z",
+      "updated_by": "JMU-AudiAnnotate",
+      "autogenerate": {
+        "enabled": false,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "82b46483-adfd-4c78-a231-627f63c9a6fd"
+  ]
+}
