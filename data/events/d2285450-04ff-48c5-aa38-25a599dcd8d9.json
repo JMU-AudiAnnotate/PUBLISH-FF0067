@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "1ac3253d-5848-46e0-9256-16af8f1dca1c": {
+      "label": "FF0067",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://aviary-p-jmu.s3.wasabisys.com/collection_resource_files/resource_files/000/260/956/original/1738262522_open-uri20241209-779319-h9rgwt.mp4",
+      "duration": 3595
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "FF0067",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Interviews with poets at the 1994 Furious Flower Conference. Featured in this video is Major Jackson interviewed by Vera Beatty, Dolres Kendrick interviewed by Judith Thomas, Pinkie Gordon Lane interviewed by Sandra Govan, and Michael S. Harper interviewed by Aldon Nielsen. This footage was originally recorded on a MII videocassette."
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-06-16T18:15:51.720Z",
+  "created_by": "JMU-AudiAnnotate",
+  "updated_at": "2025-06-16T18:15:51.720Z",
+  "updated_by": "JMU-AudiAnnotate"
+}
