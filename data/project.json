@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "JMU-AudiAnnotate",
+    "is_private": false,
+    "title": "Major Jackson, Dolores Kendrick, Pinkie Gordon Lane, and Michael S. Harper Interviews Final Cut, 1994 September 29 - 1994 October 1 [PUBLISH-FF0067]",
+    "description": "Interviews with poets at the 1994 Furious Flower Conference. Featured in this video is Major Jackson interviewed by Vera L. Beatty, Dolores Kendrick interviewed by Judith Thomas, Pinkie Gordon Lane interviewed by Sandra Govan, and Michael S. Harper interviewed by Aldon Lynn Nielsen. This footage was originally recorded on a MII videocassette.",
+    "language": "en",
+    "slug": "PUBLISH-FF0067",
+    "creator": "JMU-AudiAnnotate",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": false,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-06-16T18:14:36.497Z",
+    "updated_at": "2025-06-16T18:14:36.497Z"
   }
 }
