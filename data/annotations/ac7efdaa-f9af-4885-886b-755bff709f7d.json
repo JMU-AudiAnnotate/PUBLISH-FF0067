@@ -15226,7 +15226,6 @@
       ]
     },
     {
-      "uuid": "57fed647-5173-4abb-b0e1-1ddac3c4d1f8",
       "start_time": 3003.504,
       "end_time": 3005.814,
       "annotation": [
@@ -15239,7 +15238,13 @@
           ]
         }
       ],
-      "tags": []
+      "tags": [
+        {
+          "tag": "Michael S. Harper",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "57fed647-5173-4abb-b0e1-1ddac3c4d1f8"
     },
     {
       "uuid": "a5d4f1f7-f4a3-4174-80d0-0d39b4c0bb71",
